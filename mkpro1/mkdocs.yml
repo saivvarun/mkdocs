@@ -1,0 +1,5 @@
+site_name: State Capital
+pages:
+-Hyd: 'index.md'
+-Description: 'info.md'
+-Pics : 'hi.md'
